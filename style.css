@@ -1,0 +1,11 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+.span8{
+  background-color: red;
+}
+
+.span4{
+  background-color: green;
+}
